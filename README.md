@@ -2,7 +2,7 @@
 I'm Yash Bahekar. I am a web developer. I really enjoy learning languages and frameworks like React, Express. I also enjoy spring, servlet, spring boot. Currently I am learning React.
 
 ## Skills and Experience
-*  bootstrap c cplusplus css3 express git html5 java javascript linux mongodb mssql mysql nodejs oracle postman python react
+*  
 
 - 🌱 I’m currently learning React 
 
