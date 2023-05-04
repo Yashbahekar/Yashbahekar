@@ -1,8 +1,8 @@
-### Hi there 👋, Yash Bahekar
-#### Web Developer
+# Hi there 👋, I'm Yash Bahekar
 I'm Yash Bahekar. I am a web developer. I really enjoy learning languages and frameworks like React, Express. I also enjoy spring, servlet, spring boot. Currently I am learning React.
 
-Skills: REACT / NODE / EXPRESS / MONGODB / MYSQL / JS / HTML / CSS
+## Skills and Experience
+*  
 
 - 🌱 I’m currently learning React 
 
