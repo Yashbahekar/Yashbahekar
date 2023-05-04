@@ -11,9 +11,7 @@ I'm Yash Bahekar. I am a web developer. I really enjoy learning languages and fr
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yashbahekar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbahekar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbahekar)](https://github.com/anuraghazra/github-readme-stats)        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashbahekar&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashbahekar&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Yashbahekar)  
+   ![GitHub streak stats](https://streak-stats.demolab.com/?user=Yashbahekar)  
 
